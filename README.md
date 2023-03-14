@@ -23,4 +23,7 @@ If you have PHP already installed on your system then you may skip the first com
 This will install the script in Nemo and right clicking will now show the "Launch Live Server" menu.
 
 ## Demo
-https://raw.githubusercontent.com/supersuryaansh/live-server-for-nemo/main/liveserver.mp4
+
+
+https://user-images.githubusercontent.com/53139260/225077615-89e7be60-5a20-4e72-b400-8ea2aa9f342d.mp4
+
