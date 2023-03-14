@@ -1,0 +1,7 @@
+[Nemo Action]
+Name=Launch Live Server
+Comment=Start a live server at this location
+Exec=<live_server.sh %P>
+Selection=None
+Extensions=any;
+Icon-Name=application-exit-symbolic
